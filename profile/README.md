@@ -1,6 +1,6 @@
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.global-formula-racing.com/en/">
-    <img src="./GFR22_DV.png"/>
+    <img src="https://github.com/GlobalFormulaRacing/.github/blob/main/profile/GFR22_DV.png?raw=true"/>
   </a>
   <p>Our autonomous vehicle competing at FS ATA Italy (Picture by FS ATA Italy)</p>
 </div>
@@ -20,22 +20,22 @@ You can find more information about us on our [website](https://www.global-formu
 <div align="center">
     <span style="margin: 30px;">
         <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/global_formula_racing/">
-            <img src="./Instagram.svg" width="60" height="60"/>
+            <img src="https://github.com/GlobalFormulaRacing/.github/blob/main/profile/Instagram.svg?raw=true" width="60" height="60"/>
         </a>
     </span>
     <span style="margin: 30px;">
         <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/global-formula-racing">
-            <img src="./LinkedIn.svg" height="60"/>
+            <img src="https://github.com/GlobalFormulaRacing/.github/blob/main/profile/LinkedIn.svg?raw=true" height="60"/>
         </a>
     </span>
     <span style="margin: 30px;">
         <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/TeamGFR/">
-            <img src="./Facebook.svg" height="60"/>
+            <img src="https://github.com/GlobalFormulaRacing/.github/blob/main/profile/Facebook.svg?raw=true" height="60"/>
         </a>
     </span>
     <span style="margin: 30px;">
         <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/GlobalFormulaRacing">
-            <img src="./YouTube.svg" height="60"/>
+            <img src="https://github.com/GlobalFormulaRacing/.github/blob/main/profile/YouTube.svg?raw=true" height="60"/>
         </a>
     </span>
 </div>
@@ -46,7 +46,7 @@ In the first season, 2010, we laid a foundation for the design of the following 
 
 <div align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.global-formula-racing.com/en/">
-    <img src="./GFR23.png"/>
+    <img src="https://github.com/GlobalFormulaRacing/.github/blob/main/profile/GFR23.png?raw=true"/>
   </a>
   <p>Our 2023 electric vehicle at post season testing in Dallesport</p>
 </div>
